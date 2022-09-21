@@ -1,6 +1,5 @@
 Olá mundo!
-<<<<<<< HEAD
-
+Velit culpa eiusmod consectetur voluptate voluptate labore mollit duis proident sint ut. Sunt adipisicing proident reprehenderit consectetur. Laborum qui ad incididunt id dolore nisi aliqua.
 
 Ea laboris amet nostrud enim nostrud pariatur id duis. Excepteur aute pariatur mollit duis occaecat aliqua dolor occaecat nulla enim. Officia nulla consectetur sint nostrud proident proident enim. Id laborum excepteur ullamco nulla Lorem adipisicing ullamco excepteur reprehenderit sit deserunt commodo mollit ea. Tempor esse consectetur tempor laboris aliquip. Nulla tempor duis et do dolor et exercitation dolore.
 
@@ -13,9 +12,9 @@ Nisi irure eu anim cupidatat minim exercitation tempor minim laboris. Quis nostr
 Mollit esse minim nostrud amet eiusmod nostrud duis ex pariatur pariatur. Eiusmod eiusmod excepteur officia duis est duis consequat. Nisi ipsum deserunt cillum duis proident labore culpa excepteur aute qui dolor. Nulla eu magna consectetur reprehenderit elit.
 
 Amet reprehenderit voluptate excepteur quis id in eu do voluptate dolore voluptate exercitation commodo sint. Officia Lorem irure ut nulla id aliqua laboris ea laborum ullamco consectetur. Velit irure culpa incididunt irure esse in nulla sunt exercitation culpa laborum. Reprehenderit ea ut proident proident deserunt id minim irure. Minim aute elit non aliqua cillum nostrud non. Labore ad ut elit amet.
-
+teste 1
 Velit reprehenderit quis Lorem Lorem eiusmod consequat dolore laborum esse deserunt. Non nostrud veniam excepteur minim ut labore fugiat ea nisi duis enim est voluptate quis. Voluptate do velit proident ipsum ea. Ex laborum laboris id in est laboris velit id. Id nulla sint reprehenderit ipsum nostrud sint reprehenderit dolor aliquip adipisicing anim officia elit.
-
+teste 2
 Lorem aliqua eiusmod do quis elit adipisicing amet velit irure id ad. Duis ea mollit incididunt enim veniam deserunt ex. Labore magna deserunt fugiat in tempor eiusmod.
 
 Eiusmod ullamco aliquip commodo Lorem eiusmod eiusmod est do sint culpa consectetur non fugiat dolor. Occaecat consequat pariatur officia consectetur quis commodo do officia minim consectetur reprehenderit fugiat consectetur voluptate. Ex velit Lorem velit qui sunt proident adipisicing est nulla. Culpa quis fugiat consequat veniam adipisicing elit cillum culpa. Laborum non voluptate in Lorem.
@@ -31,21 +30,3 @@ Deserunt velit incididunt esse ut officia sit. Exercitation commodo exercitation
 Ea ex do do ullamco. Adipisicing occaecat ipsum tempor mollit ipsum velit labore amet Lorem. Duis minim reprehenderit nostrud commodo eiusmod enim excepteur in aliqua culpa esse. Enim ipsum ipsum dolor magna do duis mollit aute nulla.
 
 Tempor nisi reprehenderit elit incididunt eiusmod culpa anim. Eiusmod non voluptate elit anim enim qui. Aute irure laborum tempor commodo tempor occaecat ut dolor mollit irure.
-=======
-Velit culpa eiusmod consectetur voluptate voluptate labore mollit duis proident sint ut. Sunt adipisicing proident reprehenderit consectetur. Laborum qui ad incididunt id dolore nisi aliqua.
-
-
-
-
-
-
-
-
-
-
-
-
-teste 1
-
-teste 2
->>>>>>> guilherme_roxo
