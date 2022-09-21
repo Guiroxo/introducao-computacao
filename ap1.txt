@@ -1,4 +1,5 @@
 Olá mundo!
+<<<<<<< HEAD
 
 
 Ea laboris amet nostrud enim nostrud pariatur id duis. Excepteur aute pariatur mollit duis occaecat aliqua dolor occaecat nulla enim. Officia nulla consectetur sint nostrud proident proident enim. Id laborum excepteur ullamco nulla Lorem adipisicing ullamco excepteur reprehenderit sit deserunt commodo mollit ea. Tempor esse consectetur tempor laboris aliquip. Nulla tempor duis et do dolor et exercitation dolore.
@@ -30,3 +31,21 @@ Deserunt velit incididunt esse ut officia sit. Exercitation commodo exercitation
 Ea ex do do ullamco. Adipisicing occaecat ipsum tempor mollit ipsum velit labore amet Lorem. Duis minim reprehenderit nostrud commodo eiusmod enim excepteur in aliqua culpa esse. Enim ipsum ipsum dolor magna do duis mollit aute nulla.
 
 Tempor nisi reprehenderit elit incididunt eiusmod culpa anim. Eiusmod non voluptate elit anim enim qui. Aute irure laborum tempor commodo tempor occaecat ut dolor mollit irure.
+=======
+Velit culpa eiusmod consectetur voluptate voluptate labore mollit duis proident sint ut. Sunt adipisicing proident reprehenderit consectetur. Laborum qui ad incididunt id dolore nisi aliqua.
+
+
+
+
+
+
+
+
+
+
+
+
+teste 1
+
+teste 2
+>>>>>>> guilherme_roxo
